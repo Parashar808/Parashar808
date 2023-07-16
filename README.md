@@ -1,5 +1,7 @@
 ### Hi 👋
 
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+
 <!--
 **Parashar808/Parashar808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
